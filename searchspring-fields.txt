@@ -1,0 +1,47 @@
+Boom Type
+Capacity
+Check Valve
+Connection
+Degree of Spray Pattern
+Diaphragm Check Valve
+Drive Option
+Engine
+Fan
+Frame
+GPM
+Hose ID
+HP
+Inlet
+Inlet/Outlet
+Length
+Material
+Mesh
+Number of Valves
+Outlets
+Pipe OD
+PSI
+PSI Range
+Pump Type
+Shaft Output
+Shaft Size Required
+Shaft Type
+Size
+Style
+Swivel
+Tank Size
+Thread Mount
+Thread Size
+Thread Type
+Tubing
+Type
+Wand Length
+Tank Material
+Swath
+Construction Material
+PSI Rating
+Pattern
+Body Material
+For Hose ID
+Tank Capacity
+Max PSI
+MAX GPM
