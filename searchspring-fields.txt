@@ -48,3 +48,4 @@ MAX GPM
 Mount
 Reel Size
 Manifold Material
+Quick Ship
