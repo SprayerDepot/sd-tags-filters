@@ -47,5 +47,7 @@ Max PSI
 MAX GPM
 Mount
 Reel Size
+Hose Reel Material
+Rewind Type
 Manifold Material
 Quick Ship
