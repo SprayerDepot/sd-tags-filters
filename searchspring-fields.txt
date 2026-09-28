@@ -36,6 +36,7 @@ Tubing
 Type
 Wand Length
 Tank Material
+Drive Type
 Swath
 Construction Material
 PSI Rating
