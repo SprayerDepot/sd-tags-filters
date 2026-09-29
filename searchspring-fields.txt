@@ -36,7 +36,6 @@ Tubing
 Type
 Wand Length
 Tank Material
-Drive Type
 Swath
 Construction Material
 PSI Rating
@@ -52,3 +51,4 @@ Hose Reel Material
 Rewind Type
 Manifold Material
 Quick Ship
+Drive Type
