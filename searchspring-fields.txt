@@ -52,3 +52,4 @@ Rewind Type
 Manifold Material
 Quick Ship
 Drive Type
+Hose Type
