@@ -50,6 +50,7 @@ Hose Reel Size
 Hose Reel Material
 Rewind Type
 Manifold Material
+Pump Head Material
 Quick Ship
 Drive Type
 Hose Type
